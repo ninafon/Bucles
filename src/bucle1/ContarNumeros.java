@@ -21,7 +21,7 @@ public class ContarNumeros {
               else 
                  cc ++ ;    
        }
-       // visualizamos los resultados fuera del bucle
+       // amosamos os resultados fora do bucle
        JOptionPane.showMessageDialog(null, "positivos : "+ cp + " negativos : "+ cn + " ceros : "+ cc );
    } 
     
